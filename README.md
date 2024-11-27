@@ -1,1 +1,1 @@
-# stock_bot.py
+python stock_bot.py
